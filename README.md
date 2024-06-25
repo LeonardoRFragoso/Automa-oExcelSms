@@ -21,5 +21,5 @@ Este script em Python analisa os dados de vendas mensais armazenados em arquivos
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/LeonardoRFragoso/AutomacaoExcelSms
+   cd https://github.com/LeonardoRFragoso/AutomacaoExcelSms
